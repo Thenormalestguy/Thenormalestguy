@@ -1,15 +1,11 @@
 
 <div align="center">  
 
-# Battatn1fan
-<img width="1280" height="96" alt="Image" src="https://github.com/user-attachments/assets/db22708f-9fc5-40c0-be20-705e045200b9" />
+# 
 
-<img width="969" height="820" alt="Image" src="https://github.com/user-attachments/assets/89792ba8-ea71-48d9-855b-25997d0401db" />
+<img width="640" height="429" alt="Image" src="https://github.com/user-attachments/assets/3fef51af-af3b-44c7-a06b-2eab4f42faf3" />
 
-![Image](https://github.com/user-attachments/assets/add3214a-cbaf-4c64-8b0d-47475ef16dc7)
-
-
-<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/5a03eac8-7552-4d7b-9aaf-7996f5f9bef6" />![Image](https://github.com/user-attachments/assets/3f41d3a2-62ea-4f78-b76d-9c854b080ebf)<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/f519894e-9d69-41b8-b71d-5d8dbb2d26b1" />
+<img width="250" height="204" alt="Image" src="https://github.com/user-attachments/assets/4fd4099c-8af3-4c72-bf80-3ffe198f3581" />
 
 ![Image](https://github.com/user-attachments/assets/e11dd78d-761c-45f8-96ab-7e6d017b8724)
 </div>
